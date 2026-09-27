@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+s
+# Environment files
+*.env
+
+# Archive / backup files
+*.zip
+*.rar
+*.7z
